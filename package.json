@@ -1,6 +1,7 @@
 {
-  "name": "cordova-plugin-camera",
-  "version": "7.0.1-dev",
+  "name": "@codeeshop/cordova-plugin-firebasex",
+  "private": false,
+  "version": "7.0.2",
   "description": "Cordova Camera Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
@@ -12,7 +13,7 @@
     ]
   },
   "repository": "github:apache/cordova-plugin-camera",
-  "bugs": "https://github.com/apache/cordova-plugin-camera/issues",
+  "bugs": "https://github.com/codeeshop-oc/cordova-plugin-camera/issues",
   "keywords": [
     "cordova",
     "camera",
